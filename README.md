@@ -17,7 +17,7 @@
 
 --> to get the same type of the data which was extracted through the web we use to print by using predefined  prettify function
 
---> We are Using the beautiful soup function and adding the webpage url and also the lxml module
+--> We are Using the beautiful soup function and adding the webpage url and also the lxml module as a parameter.
 
 --> And trying to Manipulating the information and commonly used functions are
 
